@@ -1,5 +1,5 @@
 # Trajectory Error Estimation
-## Introductin
+## Introduction
 The trajectory error estimation in the SLAM.  
 Besides, this project also contains a file showing how to use Sophus package.
 
